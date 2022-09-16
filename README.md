@@ -1,7 +1,9 @@
 # React Props Usage
-## for creating reusable react components
+## Basic guide for creating reusable react components
 
 # The how to video
+
+[](https://youtu.be/-bMziWE6PVo)
 
 ## Running this demo
 
