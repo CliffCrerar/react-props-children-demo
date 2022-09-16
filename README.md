@@ -3,7 +3,7 @@
 
 # The how to video
 
-[](https://youtu.be/-bMziWE6PVo)
+[![React Props Usage](/public/nextjs.png)](https://youtu.be/-bMziWE6PVo)
 
 ## Running this demo
 
