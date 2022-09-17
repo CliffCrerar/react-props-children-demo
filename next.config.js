@@ -6,6 +6,9 @@ const nextConfig = {
   devIndicators: {
     autoPrerender: false,
   },
+  images: {
+    unoptimized: true
+  }
 }
 
 module.exports = nextConfig
