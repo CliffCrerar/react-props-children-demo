@@ -2,7 +2,10 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/docs'
+  basePath: '/docs',
+  devIndicators: {
+    autoPrerender: false,
+  },
 }
 
 module.exports = nextConfig
