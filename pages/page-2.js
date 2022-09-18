@@ -10,10 +10,10 @@ export default function PageTwo() {
     <Layout>
 
         <div>
-            <p>Page 2</p>
+            <h3>Page 2</h3>
         </div>
 
-        <ListItems list={listItemshomePage}></ListItems>
+        <ListItems heading="Nuud Ninjas" list={listItemshomePage}></ListItems>
 
     </Layout>
   )

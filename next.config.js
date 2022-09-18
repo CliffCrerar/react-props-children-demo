@@ -5,10 +5,11 @@ const nextConfig = {
   basePath: '/docs',
   devIndicators: {
     autoPrerender: false,
-  },
-  images: {
-    unoptimized: true
   }
+}
+
+if(process.env.NODE_ENV !== 'development') {
+  nextConfig.images.unoptimized = true;
 }
 
 module.exports = nextConfig

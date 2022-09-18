@@ -3,6 +3,8 @@
 # React Props Usage
 ## Basic guide for creating reusable react components
 
+> react-demo-props-for-beginners
+
 # The how to video
 
 [![React Props Usage](/public/nextjs.png)](https://youtu.be/-bMziWE6PVo)

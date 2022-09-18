@@ -1,7 +1,7 @@
 
 export function ListItems(props) {
     return <div>
-        <h3>List Items Demo</h3>
+        <h4>{props.heading}</h4>
         <ul>
             {
                 props.list.map((listItem, idx)=>{

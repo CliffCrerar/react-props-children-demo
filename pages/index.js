@@ -8,10 +8,11 @@ export default function Home() {
   var listItemshomePage = ['Cabage', 'Potato', 'Onion']
   return (
     <Layout>
-      <div>
-        <p>Page 1</p>
-        <ListItems list={listItemshomePage} />
-      </div>
+      
+        <h1>Home Page</h1>
+        
+        <ListItems heading="Veggies" list={listItemshomePage} />
+      
     </Layout>
   )
 }
