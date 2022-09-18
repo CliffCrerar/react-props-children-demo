@@ -9,7 +9,7 @@ const nextConfig = {
 }
 
 if(process.env.NODE_ENV !== 'development') {
-  nextConfig.images.unoptimized = true;
+  nextConfig.images.unoptimized = false;
 }
 
 module.exports = nextConfig
