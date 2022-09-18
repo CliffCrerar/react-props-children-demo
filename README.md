@@ -21,7 +21,7 @@ yarn dev
 
 > Open browser to `http://localhost:3000`
 
-[![Deploy Next.js site to Pages](https://github.com/CliffCrerar/react-props-children-demo/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/CliffCrerar/react-props-children-demo/actions/workflows/pages.yml)
+[![Deploy Next.js site to Pages](https://github.com/CliffCrerar/react-props-children-demo/actions/workflows/nextjs.yml/badge.svg)](https://github.com/CliffCrerar/react-props-children-demo/actions/workflows/nextjs.yml)
 
 > [demo site](cliffcrerar.github.io/react-props-children-demo)
 
