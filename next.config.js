@@ -5,6 +5,9 @@ const nextConfig = {
   basePath: '/docs',
   devIndicators: {
     autoPrerender: false,
+  },
+  images: {
+    unoptimized: false
   }
 }
 
